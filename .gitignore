@@ -1,0 +1,17 @@
+*.log
+*.pdf
+*latexmk*
+*.dvi
+*.aux
+_region_.tex
+*.fls
+*.blg
+*.bbl
+*.fmt
+*_region_*
+*~.lock*
+.tex
+__pycache__
+plots/
+tmp/
+*.pyc
